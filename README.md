@@ -22,6 +22,6 @@ Hello my name is L.I live in Russia, and I wona travel to EU or USA. I'm not a l
 ![](https://github-contributor-stats.vercel.app/api?username=loanelly&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=loanelly&icon=5&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=loanelly&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
