@@ -19,6 +19,6 @@ Hello my name is L.I live in Russia, and I wona travel to EU or USA. I'm not a l
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-Pinned below
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
