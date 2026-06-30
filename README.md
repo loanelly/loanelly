@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is L.I live in Russia, and I wona travel to EU or USA. I'm not a local here yet, so please don't judge me too harshly.<3 14.12.2025
+Hello my name is L.I live in Russia, and I wanna travel to EU or USA. I'm not a local here yet, so please don't judge me too harshly.<3 14.12.2025
 
 
 ## 🌐 Socials:
