@@ -31,7 +31,7 @@ Hello my name is L. I live in Russia, and I wanna travel to EU or USA. I'm not a
 </p>
 <div align="center">
   
-# 📊 GitHub Stats:
+# <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/uni-unico.gif" height="32" width="50" valign="middle"/> GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=loanelly&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=loanelly&theme=dark&hide_border=false" />
