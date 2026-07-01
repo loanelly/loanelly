@@ -6,14 +6,16 @@
 # <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/cute-cat-cat-on-throne.webp" height="32" valign="middle"/> About Me:
 Hello my name is L. I live in Russia, and I wanna travel to EU or USA. I'm not a local here yet, so please don't judge me too harshly. <3 14.12.2025
 
+
 <marquee behavior="alternate" scrollamount="7" width="90%">
-  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/apple-cat.webp" height="60" style="margin-right: 15px;" />
-  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/best-banana-cat.webp" height="60" style="margin-right: 40px;" />
-  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/nancy-cute-cat.webp" height="60" />
+  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/apple-cat.webp" height="60" style="margin-right: 15px;" alt="Apple Cat" />
+  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/best-banana-cat.webp" height="60" style="margin-right: 40px;" alt="Banana Cat" />
+  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/new/nancy-cute-cat.webp" height="60" alt="Spider Cat" />
 </marquee>
 
 ## <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/quishilobie-cat.gif" height="32" valign="middle"/> Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yourpyssyiswet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/26lon1y) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Murky-Instance5062) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@loanelly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourpussyiswet@mail.ru) 
+
 
 <p align="center">
   <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/fire-cat-meme.gif" alt="My Awesome GIF"  width="400" />
