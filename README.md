@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/smoking-cat.gif" alt="My Awesome GIF" width="500" />
+  <img src="https://github.com/loanelly/Readmess/blob/main/SomeCstGifs/smoking-cat.gif" alt="My Awesome GIF" height="800" width="1000" />
 </p>
 <div align="center">
 
